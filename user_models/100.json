@@ -1,0 +1,41 @@
+{
+    "name": "",
+    "personal_info": {
+        "PERSON": [
+            "lewis hamilton",
+            "lewis hamilton",
+            "lewis hamilton",
+            "hamilton",
+            "lewis hamilton"
+        ]
+    },
+    "likes": [],
+    "dislikes": [],
+    "interactions": [
+        {
+            "query": "hi",
+            "response": "Hello there! How can I assist you today?"
+        },
+        {
+            "query": "who is lewis hamilton",
+            "response": "Sir Lewis Carl Davidson Hamilton MBE HonFREng (born 7 January 1985) is a British racing driver competing in Formula One, driving for Mercedes, and has also driven for McLaren. Hamilton"
+        },
+        {
+            "query": "where does lewis hamilton born",
+            "response": "Born and raised in Stevenage, Hertfordshire, he began karting in 1993 at the age of eight and achieved success in local, national and international ...Nicolas Hamilton \u00b7 List of Formula"
+        },
+        {
+            "query": "how many chamiponships does lewis hamilton have",
+            "response": "Races"
+        },
+        {
+            "query": "who is hamilton rival",
+            "response": "Max Verstappen"
+        },
+        {
+            "query": "how many race wins does lewis hamilton have",
+            "response": "His records to date included 103 victories, 103 pole positions, 183 podium appearances and numerous other distinctions ."
+        }
+    ],
+    "feedback": []
+}
